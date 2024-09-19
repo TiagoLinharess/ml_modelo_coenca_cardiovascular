@@ -11,7 +11,7 @@ Este projeto tem como objetivo a criação de um modelo de aprendizado de máqui
 
 ### Passos para Execução
 1. Acesse o notebook diretamente no Google Colab clicando no link abaixo:   
-   [![Abrir no Colab](https://colab.research.google.com/drive/1XqQ1GFFIZWOsZ3e3IRmLLx_WozUaM2th?usp=sharing)
+   [![Abrir no Colab](https://colab.research.google.com/drive/1XqQ1GFFIZWOsZ3e3IRmLLx_WozUaM2th?usp=sharing)]
 
 3. O notebook já contém todas as instruções para carregar o conjunto de dados, treinar o modelo e visualizar os resultados.
 
